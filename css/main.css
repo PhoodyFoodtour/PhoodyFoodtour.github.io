@@ -62,7 +62,7 @@ font-size: 48.8px!important;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 150%
+	height: auto
 }
 /*nav*/
 #navigationbar{
@@ -74,8 +74,9 @@ font-size: 48.8px!important;
 }
 /*search*/
 .bigsearch{
-	height: 35vh;
-	margin-top:10vh
+	height: auto;
+	margin-top:10vh; 
+	margin-bot: 5vh
 }
 #search{
 	margin-top:32px
